@@ -92,6 +92,7 @@ def phase_3(serverRooms):
 						for i in range(4):
 							print('\n' + '🎈 ' * 40) 
 						print(f'\nOur Ultimate Champion 🏆🏆 for this game is {player_1.strip()}')
+						return player_1
 						break				
 					if player_1_choice != 'exit' or player_2_choice != 'exit':	
 						print('\n{} selected {}'.format(player_1.strip(), player_1_choice))
