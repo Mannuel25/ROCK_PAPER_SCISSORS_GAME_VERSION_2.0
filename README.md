@@ -14,8 +14,8 @@ To run the script, open a terminal in the folder where your script is located an
 
 # Sample use of the script
 
-[alt Text!](https://github.com/Mannuel25/ROCK_PAPER_SCISSORS_GAME_VERSION_2.0/blob/main/screenshot_1.png)
+![alt Text](https://github.com/Mannuel25/ROCK_PAPER_SCISSORS_GAME_VERSION_2.0/blob/main/screenshot_1.png)
 
-[alt Text!](https://github.com/Mannuel25/ROCK_PAPER_SCISSORS_GAME_VERSION_2.0/blob/main/screenshot_2.png)
+![alt Text!](https://github.com/Mannuel25/ROCK_PAPER_SCISSORS_GAME_VERSION_2.0/blob/main/screenshot_2.png)
 
-[alt Text!](https://github.com/Mannuel25/ROCK_PAPER_SCISSORS_GAME_VERSION_2.0/blob/main/screenshot_3.png)
+![alt Text!](https://github.com/Mannuel25/ROCK_PAPER_SCISSORS_GAME_VERSION_2.0/blob/main/screenshot_3.png)
